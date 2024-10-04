@@ -1,0 +1,5 @@
+amy, dog, 10
+raviolli, cat, 2
+jack, mongoose, 3
+xiis, horse, 56
+aded, human (or not), 400
