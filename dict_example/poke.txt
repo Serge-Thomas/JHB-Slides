@@ -1,0 +1,4 @@
+pikachu, 89, electric, aggressive
+balbasaur, 78, grass, mellow
+mewtwo, 123, psychic, intimidating
+squirtle, 90, water, lazy
